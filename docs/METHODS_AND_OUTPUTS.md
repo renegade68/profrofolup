@@ -1,7 +1,5 @@
 # 분석 단계와 원고 연결
 
-날짜가 포함된 기존 폴더명을 유지하여 검증된 Stata 계산 코드의 상대경로 변경을 최소화했습니다.
-
 | 단계 | 폴더 | 분석 및 원고 연결 |
 |---|---|---|
 | 1 | `run/KSOI_stata_migration_20261030` | 원자료·기업키 연결·실질변수·6개 기술전략, 표1–2 입력 |
@@ -23,9 +21,15 @@
 
 ## 방법론·의존 소프트웨어
 
-- Bogetoft et al. (2024), *Innovation strategies and firm performance*. DOI: https://doi.org/10.1007/s11123-024-00727-1
-- Badunenko and Mozharovskyi (2016), *Nonparametric frontier analysis using Stata*. DOI: https://doi.org/10.1177/1536867X1601600302; 공식 패키지 `st0444`: https://www.stata-journal.com/software/sj16-3/
-- Simar and Wilson (1998), *Sensitivity analysis of efficiency scores: How to bootstrap in nonparametric frontier models*. DOI: https://doi.org/10.1287/mnsc.44.1.49
-- Li, Morgan and Zaslavsky (2018), *Balancing covariates via propensity score weighting*. DOI: https://doi.org/10.1080/01621459.2016.1260466
+- Bogetoft et al. (2024), Innovation strategies and firm performance. DOI: https://doi.org/10.1007/s11123-024-00727-1
+- Badunenko and Mozharovskyi (2016), Nonparametric frontier analysis using Stata. DOI: https://doi.org/10.1177/1536867X1601600302; 공식 패키지 `st0444`: https://www.stata-journal.com/software/sj16-3/
+- Simar and Wilson (1998), Sensitivity analysis of efficiency scores: How to bootstrap in nonparametric frontier models. DOI: https://doi.org/10.1287/mnsc.44.1.49
+- Li, Morgan and Zaslavsky (2018), Balancing covariates via propensity score weighting. DOI: https://doi.org/10.1080/01621459.2016.1260466
 
 원고의 자료·측정범위와 분석별 표본 요건을 함께 확인하십시오.
+
+## 재현 범위
+
+검증 대상은 본 연구의 응용 사양입니다. 원저자의 비공개 재표집 구현과의 완전한 동일성을 뜻하지 않습니다. 기준 자료판의 분류가능 제조업 표본은 9,039개 기업·49,780개 기업-연도이며, 양수 DEA 완전사례는 48,531개입니다. 분석별 관측요건과 참조경계에 따라 표본 수가 달라집니다.
+
+새 자료판의 표본·가격 개정은 결과에 영향을 줄 수 있습니다. 코드의 열 대응·표본 수 검사가 중단되면 자료판 차이를 확인하고 기록하십시오.
