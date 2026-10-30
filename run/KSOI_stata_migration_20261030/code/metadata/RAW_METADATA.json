@@ -1,0 +1,3574 @@
+[
+  {
+    "year": 2006,
+    "zip_id": 75764,
+    "encoding": "windows-949",
+    "column_count": 151,
+    "fields": {
+      "year": {
+        "position": 1,
+        "label": "년도"
+      },
+      "panel_key": {
+        "position": 5,
+        "label": "기업체패널키"
+      },
+      "br_panel_key": {
+        "position": null,
+        "label": null
+      },
+      "region": {
+        "position": 2,
+        "label": "행정구역(시도)"
+      },
+      "industry_large": {
+        "position": 3,
+        "label": "산업분류(대)"
+      },
+      "industry_mid": {
+        "position": 4,
+        "label": "산업분류(중)"
+      },
+      "employees_regular": {
+        "position": 23,
+        "label": "상용종사자수_합계"
+      },
+      "employees_temporary": {
+        "position": 24,
+        "label": "상용종사자수_임시일용"
+      },
+      "employees_other": {
+        "position": null,
+        "label": null
+      },
+      "tangible_assets": {
+        "position": 32,
+        "label": "유형자산"
+      },
+      "revenue": {
+        "position": 43,
+        "label": "매출액"
+      },
+      "cost_of_sales": {
+        "position": 44,
+        "label": "영업비용 매출원가"
+      },
+      "selling_admin": {
+        "position": null,
+        "label": null
+      },
+      "materials": {
+        "position": 50,
+        "label": "영업 구입재료비"
+      },
+      "labor_cost": {
+        "position": 53,
+        "label": "영업 급여"
+      },
+      "rent": {
+        "position": 58,
+        "label": "영업 임차료"
+      },
+      "depreciation": {
+        "position": 61,
+        "label": "영업 감가상각비"
+      },
+      "taxes": {
+        "position": 62,
+        "label": "영업 세금과공과"
+      },
+      "pretax_profit": {
+        "position": 48,
+        "label": "경상이익"
+      },
+      "direct_exports": {
+        "position": 75,
+        "label": "직접수출액거래액"
+      },
+      "fourth_industry_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_use": {
+        "position": null,
+        "label": null
+      },
+      "robot_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "ai_development": {
+        "position": null,
+        "label": null
+      },
+      "robot_development": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_stage": {
+        "position": null,
+        "label": null
+      }
+    }
+  },
+  {
+    "year": 2007,
+    "zip_id": 75764,
+    "encoding": "windows-949",
+    "column_count": 143,
+    "fields": {
+      "year": {
+        "position": 1,
+        "label": "년도"
+      },
+      "panel_key": {
+        "position": 5,
+        "label": "기업체패널키"
+      },
+      "br_panel_key": {
+        "position": null,
+        "label": null
+      },
+      "region": {
+        "position": 2,
+        "label": "행정구역(시도)"
+      },
+      "industry_large": {
+        "position": 3,
+        "label": "산업분류(대)"
+      },
+      "industry_mid": {
+        "position": 4,
+        "label": "산업분류(중)"
+      },
+      "employees_regular": {
+        "position": 24,
+        "label": "상용종사자수_합계"
+      },
+      "employees_temporary": {
+        "position": 25,
+        "label": "상용종사자수_임시일용"
+      },
+      "employees_other": {
+        "position": null,
+        "label": null
+      },
+      "tangible_assets": {
+        "position": 34,
+        "label": "유형자산"
+      },
+      "revenue": {
+        "position": 45,
+        "label": "매출액"
+      },
+      "cost_of_sales": {
+        "position": 46,
+        "label": "영업비용 매출원가"
+      },
+      "selling_admin": {
+        "position": null,
+        "label": null
+      },
+      "materials": {
+        "position": 52,
+        "label": "영업 구입재료비"
+      },
+      "labor_cost": {
+        "position": 55,
+        "label": "영업 급여"
+      },
+      "rent": {
+        "position": 60,
+        "label": "영업 임차료"
+      },
+      "depreciation": {
+        "position": 63,
+        "label": "영업 감가상각비"
+      },
+      "taxes": {
+        "position": 64,
+        "label": "영업 세금과공과"
+      },
+      "pretax_profit": {
+        "position": null,
+        "label": null
+      },
+      "direct_exports": {
+        "position": 77,
+        "label": "직접수출액거래액"
+      },
+      "fourth_industry_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_use": {
+        "position": null,
+        "label": null
+      },
+      "robot_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "ai_development": {
+        "position": null,
+        "label": null
+      },
+      "robot_development": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_stage": {
+        "position": null,
+        "label": null
+      }
+    }
+  },
+  {
+    "year": 2008,
+    "zip_id": 75764,
+    "encoding": "windows-949",
+    "column_count": 157,
+    "fields": {
+      "year": {
+        "position": null,
+        "label": null
+      },
+      "panel_key": {
+        "position": 5,
+        "label": "기업체패널키"
+      },
+      "br_panel_key": {
+        "position": null,
+        "label": null
+      },
+      "region": {
+        "position": 2,
+        "label": "행정구역(시도)"
+      },
+      "industry_large": {
+        "position": 3,
+        "label": "산업분류(대)"
+      },
+      "industry_mid": {
+        "position": 4,
+        "label": "산업분류(중)"
+      },
+      "employees_regular": {
+        "position": 7,
+        "label": "종사자수_상용(남+여)"
+      },
+      "employees_temporary": {
+        "position": 25,
+        "label": "종사자수_임시및일용근로자(남+여)"
+      },
+      "employees_other": {
+        "position": 26,
+        "label": "종사자수_임시및일용근로자_기타종사자(남+여)"
+      },
+      "tangible_assets": {
+        "position": 126,
+        "label": "재무구조_자산_유형자산"
+      },
+      "revenue": {
+        "position": 133,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 134,
+        "label": "경영실적_매출원가^금융보험관련비용"
+      },
+      "selling_admin": {
+        "position": null,
+        "label": null
+      },
+      "materials": {
+        "position": null,
+        "label": null
+      },
+      "labor_cost": {
+        "position": null,
+        "label": null
+      },
+      "rent": {
+        "position": 147,
+        "label": "비용내역_영업비용_임차료"
+      },
+      "depreciation": {
+        "position": 148,
+        "label": "비용내역_영업비용_감가상각비"
+      },
+      "taxes": {
+        "position": 149,
+        "label": "비용내역_영업비용_세금과공과"
+      },
+      "pretax_profit": {
+        "position": 138,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 62,
+        "label": "기업간거래_직접수출액_거래액"
+      },
+      "fourth_industry_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_use": {
+        "position": null,
+        "label": null
+      },
+      "robot_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "ai_development": {
+        "position": null,
+        "label": null
+      },
+      "robot_development": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_stage": {
+        "position": null,
+        "label": null
+      }
+    }
+  },
+  {
+    "year": 2009,
+    "zip_id": 75764,
+    "encoding": "windows-949",
+    "column_count": 199,
+    "fields": {
+      "year": {
+        "position": null,
+        "label": null
+      },
+      "panel_key": {
+        "position": 5,
+        "label": "기업체패널키"
+      },
+      "br_panel_key": {
+        "position": null,
+        "label": null
+      },
+      "region": {
+        "position": 2,
+        "label": "행정구역(시도)"
+      },
+      "industry_large": {
+        "position": 3,
+        "label": "산업분류(대)"
+      },
+      "industry_mid": {
+        "position": 4,
+        "label": "산업분류(중)"
+      },
+      "employees_regular": {
+        "position": 7,
+        "label": "종사자수_상용(남+여)"
+      },
+      "employees_temporary": {
+        "position": 61,
+        "label": "종사자수_임시및일용근로자(남+여)"
+      },
+      "employees_other": {
+        "position": 64,
+        "label": "종사자수_임시및일용근로자_기타종사자(남+여)"
+      },
+      "tangible_assets": {
+        "position": 168,
+        "label": "재무구조_자산_유형자산"
+      },
+      "revenue": {
+        "position": 175,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 176,
+        "label": "경영실적_매출원가^금융보험관련비용"
+      },
+      "selling_admin": {
+        "position": null,
+        "label": null
+      },
+      "materials": {
+        "position": null,
+        "label": null
+      },
+      "labor_cost": {
+        "position": null,
+        "label": null
+      },
+      "rent": {
+        "position": 189,
+        "label": "비용내역_영업비용_임차료"
+      },
+      "depreciation": {
+        "position": 190,
+        "label": "비용내역_영업비용_감가상각비"
+      },
+      "taxes": {
+        "position": 191,
+        "label": "비용내역_영업비용_세금과공과"
+      },
+      "pretax_profit": {
+        "position": 180,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 104,
+        "label": "기업간거래_직접수출액_거래액"
+      },
+      "fourth_industry_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_use": {
+        "position": null,
+        "label": null
+      },
+      "robot_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "ai_development": {
+        "position": null,
+        "label": null
+      },
+      "robot_development": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_stage": {
+        "position": null,
+        "label": null
+      }
+    }
+  },
+  {
+    "year": 2010,
+    "zip_id": 86378,
+    "encoding": "windows-949",
+    "column_count": 231,
+    "fields": {
+      "year": {
+        "position": null,
+        "label": null
+      },
+      "panel_key": {
+        "position": 5,
+        "label": "기업체패널키"
+      },
+      "br_panel_key": {
+        "position": null,
+        "label": null
+      },
+      "region": {
+        "position": 2,
+        "label": "행정구역(시도)"
+      },
+      "industry_large": {
+        "position": 3,
+        "label": "산업분류(대)"
+      },
+      "industry_mid": {
+        "position": 4,
+        "label": "산업분류(중)"
+      },
+      "employees_regular": {
+        "position": 8,
+        "label": "종사자수_상용(남+여)"
+      },
+      "employees_temporary": {
+        "position": 72,
+        "label": "종사자수_임시및일용근로자(남+여)"
+      },
+      "employees_other": {
+        "position": 75,
+        "label": "종사자수_임시및일용근로자_기타종사자(남+여)"
+      },
+      "tangible_assets": {
+        "position": 204,
+        "label": "재무구조_자산_유형자산"
+      },
+      "revenue": {
+        "position": 211,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 212,
+        "label": "경영실적_매출원가^금융보험관련비용"
+      },
+      "selling_admin": {
+        "position": null,
+        "label": null
+      },
+      "materials": {
+        "position": 219,
+        "label": "비용내역_영업비용_재료비(일반업종)"
+      },
+      "labor_cost": {
+        "position": 222,
+        "label": "비용내역_영업비용_인건비"
+      },
+      "rent": {
+        "position": 223,
+        "label": "비용내역_영업비용_임차료"
+      },
+      "depreciation": {
+        "position": 224,
+        "label": "비용내역_영업비용_감가상각비"
+      },
+      "taxes": {
+        "position": 225,
+        "label": "비용내역_영업비용_세금과공과"
+      },
+      "pretax_profit": {
+        "position": 216,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 109,
+        "label": "기업간거래_직접수출액_거래액"
+      },
+      "fourth_industry_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_use": {
+        "position": null,
+        "label": null
+      },
+      "robot_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "ai_development": {
+        "position": null,
+        "label": null
+      },
+      "robot_development": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_stage": {
+        "position": null,
+        "label": null
+      }
+    }
+  },
+  {
+    "year": 2011,
+    "zip_id": 86378,
+    "encoding": "windows-949",
+    "column_count": 235,
+    "fields": {
+      "year": {
+        "position": null,
+        "label": null
+      },
+      "panel_key": {
+        "position": 5,
+        "label": "기업체패널키"
+      },
+      "br_panel_key": {
+        "position": null,
+        "label": null
+      },
+      "region": {
+        "position": 2,
+        "label": "행정구역(시도)"
+      },
+      "industry_large": {
+        "position": 3,
+        "label": "산업분류(대)"
+      },
+      "industry_mid": {
+        "position": 4,
+        "label": "산업분류(중)"
+      },
+      "employees_regular": {
+        "position": 8,
+        "label": "종사자수_상용(남+여)"
+      },
+      "employees_temporary": {
+        "position": 76,
+        "label": "종사자수_임시및일용근로자(남+여)"
+      },
+      "employees_other": {
+        "position": 79,
+        "label": "종사자수_임시및일용근로자_기타종사자(남+여)"
+      },
+      "tangible_assets": {
+        "position": 208,
+        "label": "재무구조_자산_유형자산"
+      },
+      "revenue": {
+        "position": 215,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 216,
+        "label": "경영실적_매출원가^ 금융보험관련비용"
+      },
+      "selling_admin": {
+        "position": null,
+        "label": null
+      },
+      "materials": {
+        "position": 223,
+        "label": "비용내역_영업비용_재료비(일반업종)"
+      },
+      "labor_cost": {
+        "position": 226,
+        "label": "비용내역_영업비용_인건비"
+      },
+      "rent": {
+        "position": 227,
+        "label": "비용내역_영업비용_임차료"
+      },
+      "depreciation": {
+        "position": 228,
+        "label": "비용내역_영업비용_감가상각비"
+      },
+      "taxes": {
+        "position": 229,
+        "label": "비용내역_영업비용_세금과공과"
+      },
+      "pretax_profit": {
+        "position": 220,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 113,
+        "label": "기업간거래_직접수출액_거래액"
+      },
+      "fourth_industry_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_use": {
+        "position": null,
+        "label": null
+      },
+      "robot_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "ai_development": {
+        "position": null,
+        "label": null
+      },
+      "robot_development": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_stage": {
+        "position": null,
+        "label": null
+      }
+    }
+  },
+  {
+    "year": 2012,
+    "zip_id": 86378,
+    "encoding": "windows-949",
+    "column_count": 233,
+    "fields": {
+      "year": {
+        "position": null,
+        "label": null
+      },
+      "panel_key": {
+        "position": 5,
+        "label": "패널키"
+      },
+      "br_panel_key": {
+        "position": null,
+        "label": null
+      },
+      "region": {
+        "position": 2,
+        "label": "행정구역(시도)"
+      },
+      "industry_large": {
+        "position": 3,
+        "label": "산업분류(대)"
+      },
+      "industry_mid": {
+        "position": 4,
+        "label": "산업분류(중)"
+      },
+      "employees_regular": {
+        "position": 8,
+        "label": "종사자수_상용(남+여)"
+      },
+      "employees_temporary": {
+        "position": 76,
+        "label": "종사자수_임시및일용근로자(남+여)"
+      },
+      "employees_other": {
+        "position": 79,
+        "label": "종사자수_임시및일용근로자_기타종사자(남+여)"
+      },
+      "tangible_assets": {
+        "position": 207,
+        "label": "재무구조_자산_유형자산"
+      },
+      "revenue": {
+        "position": 214,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 215,
+        "label": "경영실적_매출원가^금융보험관련비용"
+      },
+      "selling_admin": {
+        "position": null,
+        "label": null
+      },
+      "materials": {
+        "position": 221,
+        "label": "비용내역_영업비용_재료비(일반업종)"
+      },
+      "labor_cost": {
+        "position": 224,
+        "label": "비용내역_영업비용_인건비"
+      },
+      "rent": {
+        "position": 225,
+        "label": "비용내역_영업비용_임차료"
+      },
+      "depreciation": {
+        "position": 226,
+        "label": "비용내역_영업비용_감가상각비"
+      },
+      "taxes": {
+        "position": 227,
+        "label": "비용내역_영업비용_세금과공과"
+      },
+      "pretax_profit": {
+        "position": 219,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 113,
+        "label": "기업간거래_직접수출액_거래액"
+      },
+      "fourth_industry_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_use": {
+        "position": null,
+        "label": null
+      },
+      "robot_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "ai_development": {
+        "position": null,
+        "label": null
+      },
+      "robot_development": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_stage": {
+        "position": null,
+        "label": null
+      }
+    }
+  },
+  {
+    "year": 2013,
+    "zip_id": 86378,
+    "encoding": "windows-949",
+    "column_count": 233,
+    "fields": {
+      "year": {
+        "position": null,
+        "label": null
+      },
+      "panel_key": {
+        "position": 5,
+        "label": "패널키"
+      },
+      "br_panel_key": {
+        "position": null,
+        "label": null
+      },
+      "region": {
+        "position": 2,
+        "label": "행정구역(시도)"
+      },
+      "industry_large": {
+        "position": 3,
+        "label": "산업분류(대)"
+      },
+      "industry_mid": {
+        "position": 4,
+        "label": "산업분류(중)"
+      },
+      "employees_regular": {
+        "position": 8,
+        "label": "종사자수_상용(남+여)"
+      },
+      "employees_temporary": {
+        "position": 76,
+        "label": "종사자수_임시및일용근로자(남+여)"
+      },
+      "employees_other": {
+        "position": 79,
+        "label": "종사자수_임시및일용근로자_기타종사자(남+여)"
+      },
+      "tangible_assets": {
+        "position": 207,
+        "label": "재무구조_자산_유형자산"
+      },
+      "revenue": {
+        "position": 214,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 215,
+        "label": "경영실적_매출원가^금융보험관련비용"
+      },
+      "selling_admin": {
+        "position": null,
+        "label": null
+      },
+      "materials": {
+        "position": 221,
+        "label": "비용내역_영업비용_재료비(일반업종)"
+      },
+      "labor_cost": {
+        "position": 224,
+        "label": "비용내역_영업비용_인건비"
+      },
+      "rent": {
+        "position": 225,
+        "label": "비용내역_영업비용_임차료"
+      },
+      "depreciation": {
+        "position": 226,
+        "label": "비용내역_영업비용_감가상각비"
+      },
+      "taxes": {
+        "position": 227,
+        "label": "비용내역_영업비용_세금과공과"
+      },
+      "pretax_profit": {
+        "position": 219,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 113,
+        "label": "기업간거래_직접수출액_거래액"
+      },
+      "fourth_industry_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_use": {
+        "position": null,
+        "label": null
+      },
+      "robot_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "ai_development": {
+        "position": null,
+        "label": null
+      },
+      "robot_development": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_stage": {
+        "position": null,
+        "label": null
+      }
+    }
+  },
+  {
+    "year": 2014,
+    "zip_id": 86378,
+    "encoding": "windows-949",
+    "column_count": 233,
+    "fields": {
+      "year": {
+        "position": 1,
+        "label": "조사기준연도"
+      },
+      "panel_key": {
+        "position": 5,
+        "label": "패널키값"
+      },
+      "br_panel_key": {
+        "position": null,
+        "label": null
+      },
+      "region": {
+        "position": 2,
+        "label": "행정구역시도코드"
+      },
+      "industry_large": {
+        "position": 3,
+        "label": "주사업_산업대분류코드"
+      },
+      "industry_mid": {
+        "position": 4,
+        "label": "주사업_산업중분류코드"
+      },
+      "employees_regular": {
+        "position": 8,
+        "label": "상용근로_남여합계종사자수"
+      },
+      "employees_temporary": {
+        "position": 76,
+        "label": "임시일용근로_남여합계종사자수"
+      },
+      "employees_other": {
+        "position": 79,
+        "label": "기타_남여합계종사자수"
+      },
+      "tangible_assets": {
+        "position": 207,
+        "label": "재무구조_자산_유형자산(일반^ 금융)"
+      },
+      "revenue": {
+        "position": 214,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 215,
+        "label": "경영실적_영업비용_매출원가금융보험관련비"
+      },
+      "selling_admin": {
+        "position": 216,
+        "label": "경영실적_영업비용_판매비및일반관리비"
+      },
+      "materials": {
+        "position": 221,
+        "label": "비용내역_영업비용_재료비(일반업종)"
+      },
+      "labor_cost": {
+        "position": 224,
+        "label": "비용내역_영업비_인건비"
+      },
+      "rent": {
+        "position": 225,
+        "label": "비용내역_영업비_임차료"
+      },
+      "depreciation": {
+        "position": 226,
+        "label": "비용내역_영업비_감가상각비"
+      },
+      "taxes": {
+        "position": 227,
+        "label": "비용내역_영업비_세금과공과금"
+      },
+      "pretax_profit": {
+        "position": 219,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 113,
+        "label": "기업간거래_직접수출_거래금액"
+      },
+      "fourth_industry_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_use": {
+        "position": null,
+        "label": null
+      },
+      "robot_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "ai_development": {
+        "position": null,
+        "label": null
+      },
+      "robot_development": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_stage": {
+        "position": null,
+        "label": null
+      }
+    }
+  },
+  {
+    "year": 2015,
+    "zip_id": 43412,
+    "encoding": "windows-949",
+    "column_count": 218,
+    "fields": {
+      "year": {
+        "position": 1,
+        "label": "조사기준연도"
+      },
+      "panel_key": {
+        "position": 5,
+        "label": "패널키값"
+      },
+      "br_panel_key": {
+        "position": null,
+        "label": null
+      },
+      "region": {
+        "position": 2,
+        "label": "행정구역시도코드"
+      },
+      "industry_large": {
+        "position": 3,
+        "label": "주사업_산업대분류코드"
+      },
+      "industry_mid": {
+        "position": 4,
+        "label": "주사업_산업중분류코드"
+      },
+      "employees_regular": {
+        "position": 8,
+        "label": "상용근로_남여합계종사자수"
+      },
+      "employees_temporary": {
+        "position": 76,
+        "label": "임시일용근로_남여합계종사자수"
+      },
+      "employees_other": {
+        "position": 79,
+        "label": "기타_남여합계종사자수"
+      },
+      "tangible_assets": {
+        "position": 192,
+        "label": "재무구조_자산_유형자산(일반^ 금융)"
+      },
+      "revenue": {
+        "position": 199,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 200,
+        "label": "경영실적_영업비용_매출원가금융보험관련비"
+      },
+      "selling_admin": {
+        "position": 201,
+        "label": "경영실적_영업비용_판매비및일반관리비"
+      },
+      "materials": {
+        "position": 206,
+        "label": "비용내역_영업비용_재료비(일반업종)"
+      },
+      "labor_cost": {
+        "position": 209,
+        "label": "비용내역_영업비_인건비"
+      },
+      "rent": {
+        "position": 210,
+        "label": "비용내역_영업비_임차료"
+      },
+      "depreciation": {
+        "position": 211,
+        "label": "비용내역_영업비_감가상각비"
+      },
+      "taxes": {
+        "position": 212,
+        "label": "비용내역_영업비_세금과공과금"
+      },
+      "pretax_profit": {
+        "position": 204,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 113,
+        "label": "기업간거래_직접수출_거래금액"
+      },
+      "fourth_industry_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_use": {
+        "position": null,
+        "label": null
+      },
+      "robot_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "ai_development": {
+        "position": null,
+        "label": null
+      },
+      "robot_development": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_stage": {
+        "position": null,
+        "label": null
+      }
+    }
+  },
+  {
+    "year": 2016,
+    "zip_id": 43412,
+    "encoding": "windows-949",
+    "column_count": 208,
+    "fields": {
+      "year": {
+        "position": 1,
+        "label": "조사기준연도"
+      },
+      "panel_key": {
+        "position": 3,
+        "label": "패널키값"
+      },
+      "br_panel_key": {
+        "position": null,
+        "label": null
+      },
+      "region": {
+        "position": 2,
+        "label": "행정구역시도코드"
+      },
+      "industry_large": {
+        "position": 5,
+        "label": "주사업_산업대분류코드"
+      },
+      "industry_mid": {
+        "position": 6,
+        "label": "주사업_산업중분류코드"
+      },
+      "employees_regular": {
+        "position": 9,
+        "label": "상용근로_남여합계종사자수"
+      },
+      "employees_temporary": {
+        "position": 57,
+        "label": "임시일용근로_남여합계종사자수"
+      },
+      "employees_other": {
+        "position": 60,
+        "label": "기타_남여합계종사자수"
+      },
+      "tangible_assets": {
+        "position": 182,
+        "label": "재무구조_자산_유형자산(일반^ 금융)"
+      },
+      "revenue": {
+        "position": 189,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 190,
+        "label": "경영실적_영업비용_매출원가금융보험관련비"
+      },
+      "selling_admin": {
+        "position": 191,
+        "label": "경영실적_영업비용_판매비및일반관리비"
+      },
+      "materials": {
+        "position": 196,
+        "label": "비용내역_영업비용_재료비(일반업종)"
+      },
+      "labor_cost": {
+        "position": 199,
+        "label": "비용내역_영업비_인건비"
+      },
+      "rent": {
+        "position": 200,
+        "label": "비용내역_영업비_임차료"
+      },
+      "depreciation": {
+        "position": 201,
+        "label": "비용내역_영업비_감가상각비"
+      },
+      "taxes": {
+        "position": 202,
+        "label": "비용내역_영업비_세금과공과금"
+      },
+      "pretax_profit": {
+        "position": 194,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 86,
+        "label": "기업간거래_직접수출_거래금액"
+      },
+      "fourth_industry_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_use": {
+        "position": null,
+        "label": null
+      },
+      "robot_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "ai_development": {
+        "position": null,
+        "label": null
+      },
+      "robot_development": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_stage": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_stage": {
+        "position": null,
+        "label": null
+      }
+    }
+  },
+  {
+    "year": 2017,
+    "zip_id": 43412,
+    "encoding": "windows-949",
+    "column_count": 238,
+    "fields": {
+      "year": {
+        "position": 1,
+        "label": "조사기준연도"
+      },
+      "panel_key": {
+        "position": 3,
+        "label": "패널키값"
+      },
+      "br_panel_key": {
+        "position": null,
+        "label": null
+      },
+      "region": {
+        "position": 2,
+        "label": "행정구역시도코드"
+      },
+      "industry_large": {
+        "position": 5,
+        "label": "주사업_산업대분류코드"
+      },
+      "industry_mid": {
+        "position": 6,
+        "label": "주사업_산업중분류코드"
+      },
+      "employees_regular": {
+        "position": 9,
+        "label": "상용근로_남여합계종사자수"
+      },
+      "employees_temporary": {
+        "position": 57,
+        "label": "임시일용근로_남여합계종사자수"
+      },
+      "employees_other": {
+        "position": 60,
+        "label": "기타_남여합계종사자수"
+      },
+      "tangible_assets": {
+        "position": 212,
+        "label": "재무구조_자산_유형자산(일반^ 금융)"
+      },
+      "revenue": {
+        "position": 219,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 220,
+        "label": "경영실적_영업비용_매출원가금융보험관련비"
+      },
+      "selling_admin": {
+        "position": 221,
+        "label": "경영실적_영업비용_판매비및일반관리비"
+      },
+      "materials": {
+        "position": 226,
+        "label": "비용내역_영업비용_재료비(일반업종)"
+      },
+      "labor_cost": {
+        "position": 229,
+        "label": "비용내역_영업비_인건비"
+      },
+      "rent": {
+        "position": 230,
+        "label": "비용내역_영업비_임차료"
+      },
+      "depreciation": {
+        "position": 231,
+        "label": "비용내역_영업비_감가상각비"
+      },
+      "taxes": {
+        "position": 232,
+        "label": "비용내역_영업비_세금과공과금"
+      },
+      "pretax_profit": {
+        "position": 224,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 95,
+        "label": "기업간거래_직접수출_거래금액"
+      },
+      "fourth_industry_use": {
+        "position": 123,
+        "label": "4차산업혁명_활용여부"
+      },
+      "ai_use": {
+        "position": 132,
+        "label": "4차산업혁명_개발활용_AI_활용여부"
+      },
+      "robot_use": {
+        "position": 138,
+        "label": "4차산업혁명_개발활용_ROBOT_활용여부"
+      },
+      "ai_stage": {
+        "position": 139,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "robot_stage": {
+        "position": 143,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "ai_development": {
+        "position": 152,
+        "label": "4차산업혁명_자체개발_AI_개발여부"
+      },
+      "robot_development": {
+        "position": 158,
+        "label": "4차산업혁명_자체개발_ROBOT_개발여부"
+      },
+      "raw_iot_use": {
+        "position": 125,
+        "label": "4차산업혁명_개발활용_IOT_활용여부"
+      },
+      "raw_iot_stage": {
+        "position": 131,
+        "label": "4차산업혁명_기술활용_IOT_활용단계구분코드"
+      },
+      "raw_cloud_use": {
+        "position": 127,
+        "label": "4차산업혁명_개발활용_CLOUD_활용여부"
+      },
+      "raw_cloud_stage": {
+        "position": 133,
+        "label": "4차산업혁명_기술활용_CLOUD_활용단계구분코드"
+      },
+      "raw_bigdata_use": {
+        "position": 129,
+        "label": "4차산업혁명_개발활용_BIGDATA_활용여부"
+      },
+      "raw_bigdata_stage": {
+        "position": 135,
+        "label": "4차산업혁명_기술활용_BIGDATA_활용단계구분코드"
+      },
+      "raw_mobile_use": {
+        "position": 130,
+        "label": "4차산업혁명_개발활용_MOBILE_활용여부"
+      },
+      "raw_mobile_stage": {
+        "position": 137,
+        "label": "4차산업혁명_기술활용_MOBILE_활용단계구분코드"
+      },
+      "raw_ai_use": {
+        "position": 132,
+        "label": "4차산업혁명_개발활용_AI_활용여부"
+      },
+      "raw_ai_stage": {
+        "position": 139,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "raw_blockchain_use": {
+        "position": 134,
+        "label": "4차산업혁명_개발활용_BC_활용여부"
+      },
+      "raw_blockchain_stage": {
+        "position": 141,
+        "label": "4차산업혁명_기술활용_BC_활용단계구분코드"
+      },
+      "raw_3dp_use": {
+        "position": 136,
+        "label": "4차산업혁명_개발활용_3DP_활용여부"
+      },
+      "raw_3dp_stage": {
+        "position": 142,
+        "label": "4차산업혁명_기술활용_3DP_활용단계구분코드"
+      },
+      "raw_robot_use": {
+        "position": 138,
+        "label": "4차산업혁명_개발활용_ROBOT_활용여부"
+      },
+      "raw_robot_stage": {
+        "position": 143,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "raw_arvr_use": {
+        "position": 140,
+        "label": "4차산업혁명_개발활용_AR_VR_활용여부"
+      },
+      "raw_arvr_stage": {
+        "position": 144,
+        "label": "4차산업혁명_기술활용_AR_VR_활용단계구분코드"
+      }
+    }
+  },
+  {
+    "year": 2018,
+    "zip_id": 43412,
+    "encoding": "windows-949",
+    "column_count": 237,
+    "fields": {
+      "year": {
+        "position": 1,
+        "label": "조사기준연도"
+      },
+      "panel_key": {
+        "position": 3,
+        "label": "패널키값"
+      },
+      "br_panel_key": {
+        "position": null,
+        "label": null
+      },
+      "region": {
+        "position": 2,
+        "label": "행정구역시도코드"
+      },
+      "industry_large": {
+        "position": 5,
+        "label": "주사업_산업대분류코드"
+      },
+      "industry_mid": {
+        "position": 6,
+        "label": "주사업_산업중분류코드"
+      },
+      "employees_regular": {
+        "position": 9,
+        "label": "상용근로_남여합계종사자수"
+      },
+      "employees_temporary": {
+        "position": 57,
+        "label": "임시일용근로_남여합계종사자수"
+      },
+      "employees_other": {
+        "position": 60,
+        "label": "기타_남여합계종사자수"
+      },
+      "tangible_assets": {
+        "position": 211,
+        "label": "재무구조_자산_유형자산(일반^ 금융)"
+      },
+      "revenue": {
+        "position": 218,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 219,
+        "label": "경영실적_영업비용_매출원가금융보험관련비"
+      },
+      "selling_admin": {
+        "position": 220,
+        "label": "경영실적_영업비용_판매비및일반관리비"
+      },
+      "materials": {
+        "position": 225,
+        "label": "비용내역_영업비용_재료비(일반업종)"
+      },
+      "labor_cost": {
+        "position": 228,
+        "label": "비용내역_영업비_인건비"
+      },
+      "rent": {
+        "position": 229,
+        "label": "비용내역_영업비_임차료"
+      },
+      "depreciation": {
+        "position": 230,
+        "label": "비용내역_영업비_감가상각비"
+      },
+      "taxes": {
+        "position": 231,
+        "label": "비용내역_영업비_세금과공과금"
+      },
+      "pretax_profit": {
+        "position": 223,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 95,
+        "label": "기업간거래_직접수출_거래금액"
+      },
+      "fourth_industry_use": {
+        "position": 123,
+        "label": "4차산업혁명_활용여부"
+      },
+      "ai_use": {
+        "position": 132,
+        "label": "4차산업혁명_개발활용_AI_활용여부"
+      },
+      "robot_use": {
+        "position": 138,
+        "label": "4차산업혁명_개발활용_ROBOT_활용여부"
+      },
+      "ai_stage": {
+        "position": 139,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "robot_stage": {
+        "position": 143,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "ai_development": {
+        "position": 149,
+        "label": "4차산업혁명_자체개발_AI_개발여부"
+      },
+      "robot_development": {
+        "position": 155,
+        "label": "4차산업혁명_자체개발_ROBOT_개발여부"
+      },
+      "raw_iot_use": {
+        "position": 125,
+        "label": "4차산업혁명_개발활용_IOT_활용여부"
+      },
+      "raw_iot_stage": {
+        "position": 131,
+        "label": "4차산업혁명_기술활용_IOT_활용단계구분코드"
+      },
+      "raw_cloud_use": {
+        "position": 127,
+        "label": "4차산업혁명_개발활용_CLOUD_활용여부"
+      },
+      "raw_cloud_stage": {
+        "position": 133,
+        "label": "4차산업혁명_기술활용_CLOUD_활용단계구분코드"
+      },
+      "raw_bigdata_use": {
+        "position": 129,
+        "label": "4차산업혁명_개발활용_BIGDATA_활용여부"
+      },
+      "raw_bigdata_stage": {
+        "position": 135,
+        "label": "4차산업혁명_기술활용_BIGDATA_활용단계구분코드"
+      },
+      "raw_mobile_use": {
+        "position": 130,
+        "label": "4차산업혁명_개발활용_MOBILE_활용여부"
+      },
+      "raw_mobile_stage": {
+        "position": 137,
+        "label": "4차산업혁명_기술활용_MOBILE_활용단계구분코드"
+      },
+      "raw_ai_use": {
+        "position": 132,
+        "label": "4차산업혁명_개발활용_AI_활용여부"
+      },
+      "raw_ai_stage": {
+        "position": 139,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "raw_blockchain_use": {
+        "position": 134,
+        "label": "4차산업혁명_개발활용_BC_활용여부"
+      },
+      "raw_blockchain_stage": {
+        "position": 141,
+        "label": "4차산업혁명_기술활용_BC_활용단계구분코드"
+      },
+      "raw_3dp_use": {
+        "position": 136,
+        "label": "4차산업혁명_개발활용_3DP_활용여부"
+      },
+      "raw_3dp_stage": {
+        "position": 142,
+        "label": "4차산업혁명_기술활용_3DP_활용단계구분코드"
+      },
+      "raw_robot_use": {
+        "position": 138,
+        "label": "4차산업혁명_개발활용_ROBOT_활용여부"
+      },
+      "raw_robot_stage": {
+        "position": 143,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "raw_arvr_use": {
+        "position": 140,
+        "label": "4차산업혁명_개발활용_AR_VR_활용여부"
+      },
+      "raw_arvr_stage": {
+        "position": 144,
+        "label": "4차산업혁명_기술활용_AR_VR_활용단계구분코드"
+      }
+    }
+  },
+  {
+    "year": 2019,
+    "zip_id": 43412,
+    "encoding": "windows-949",
+    "column_count": 259,
+    "fields": {
+      "year": {
+        "position": 1,
+        "label": "조사기준연도"
+      },
+      "panel_key": {
+        "position": 3,
+        "label": "패널키값"
+      },
+      "br_panel_key": {
+        "position": null,
+        "label": null
+      },
+      "region": {
+        "position": 2,
+        "label": "행정구역시도코드"
+      },
+      "industry_large": {
+        "position": 5,
+        "label": "주사업_산업대분류코드"
+      },
+      "industry_mid": {
+        "position": 6,
+        "label": "주사업_산업중분류코드"
+      },
+      "employees_regular": {
+        "position": 9,
+        "label": "상용근로_남여합계종사자수"
+      },
+      "employees_temporary": {
+        "position": 57,
+        "label": "임시일용근로_남여합계종사자수"
+      },
+      "employees_other": {
+        "position": 60,
+        "label": "기타_남여합계종사자수"
+      },
+      "tangible_assets": {
+        "position": 228,
+        "label": "재무구조_자산_유형자산(일반^ 금융)"
+      },
+      "revenue": {
+        "position": 235,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 236,
+        "label": "경영실적_영업비용_매출원가금융보험관련비"
+      },
+      "selling_admin": {
+        "position": 237,
+        "label": "경영실적_영업비용_판매비및일반관리비"
+      },
+      "materials": {
+        "position": 242,
+        "label": "비용내역_영업비용_재료비(일반업종)"
+      },
+      "labor_cost": {
+        "position": 248,
+        "label": "비용내역_영업비_인건비"
+      },
+      "rent": {
+        "position": 250,
+        "label": "비용내역_영업비_임차료"
+      },
+      "depreciation": {
+        "position": 252,
+        "label": "비용내역_영업비_감가상각비"
+      },
+      "taxes": {
+        "position": 253,
+        "label": "비용내역_영업비_세금과공과금"
+      },
+      "pretax_profit": {
+        "position": 240,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 99,
+        "label": "기업간거래_직접수출_거래금액"
+      },
+      "fourth_industry_use": {
+        "position": 132,
+        "label": "4차산업혁명_활용여부"
+      },
+      "ai_use": {
+        "position": 141,
+        "label": "4차산업혁명_개발활용_AI_활용여부"
+      },
+      "robot_use": {
+        "position": 147,
+        "label": "4차산업혁명_개발활용_ROBOT_활용여부"
+      },
+      "ai_stage": {
+        "position": 148,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "robot_stage": {
+        "position": 154,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "ai_development": {
+        "position": 201,
+        "label": "4차산업혁명_자체개발_AI_주된개발방법코드"
+      },
+      "robot_development": {
+        "position": 207,
+        "label": "4차산업혁명_자체개발_ROBOT_주된개발방법코드"
+      },
+      "raw_iot_use": {
+        "position": 134,
+        "label": "4차산업혁명_개발활용_IOT_활용여부"
+      },
+      "raw_iot_stage": {
+        "position": 140,
+        "label": "4차산업혁명_기술활용_IOT_활용단계구분코드"
+      },
+      "raw_cloud_use": {
+        "position": 136,
+        "label": "4차산업혁명_개발활용_CLOUD_활용여부"
+      },
+      "raw_cloud_stage": {
+        "position": 142,
+        "label": "4차산업혁명_기술활용_CLOUD_활용단계구분코드"
+      },
+      "raw_bigdata_use": {
+        "position": 138,
+        "label": "4차산업혁명_개발활용_BIGDATA_활용여부"
+      },
+      "raw_bigdata_stage": {
+        "position": 144,
+        "label": "4차산업혁명_기술활용_BIGDATA_활용단계구분코드"
+      },
+      "raw_mobile_use": {
+        "position": 139,
+        "label": "4차산업혁명_개발활용_MOBILE_활용여부"
+      },
+      "raw_mobile_stage": {
+        "position": 146,
+        "label": "4차산업혁명_기술활용_MOBILE_활용단계구분코드"
+      },
+      "raw_ai_use": {
+        "position": 141,
+        "label": "4차산업혁명_개발활용_AI_활용여부"
+      },
+      "raw_ai_stage": {
+        "position": 148,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "raw_blockchain_use": {
+        "position": 143,
+        "label": "4차산업혁명_개발활용_BC_활용여부"
+      },
+      "raw_blockchain_stage": {
+        "position": 150,
+        "label": "4차산업혁명_기술활용_BC_활용단계구분코드"
+      },
+      "raw_3dp_use": {
+        "position": 145,
+        "label": "4차산업혁명_개발활용_3DP_활용여부"
+      },
+      "raw_3dp_stage": {
+        "position": 152,
+        "label": "4차산업혁명_기술활용_3DP_활용단계구분코드"
+      },
+      "raw_robot_use": {
+        "position": 147,
+        "label": "4차산업혁명_개발활용_ROBOT_활용여부"
+      },
+      "raw_robot_stage": {
+        "position": 154,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "raw_arvr_use": {
+        "position": 149,
+        "label": "4차산업혁명_개발활용_AR_VR_활용여부"
+      },
+      "raw_arvr_stage": {
+        "position": 156,
+        "label": "4차산업혁명_기술활용_AR_VR_활용단계구분코드"
+      }
+    }
+  },
+  {
+    "year": 2020,
+    "zip_id": 82803,
+    "encoding": "windows-949",
+    "column_count": 259,
+    "fields": {
+      "year": {
+        "position": 1,
+        "label": "조사기준연도"
+      },
+      "panel_key": {
+        "position": 2,
+        "label": "패널키값"
+      },
+      "br_panel_key": {
+        "position": null,
+        "label": null
+      },
+      "region": {
+        "position": 4,
+        "label": "행정구역시도코드"
+      },
+      "industry_large": {
+        "position": 8,
+        "label": "주사업_산업대분류코드"
+      },
+      "industry_mid": {
+        "position": 9,
+        "label": "주사업_산업중분류코드"
+      },
+      "employees_regular": {
+        "position": 11,
+        "label": "상용근로_남여합계종사자수"
+      },
+      "employees_temporary": {
+        "position": 59,
+        "label": "임시일용근로_남여합계종사자수"
+      },
+      "employees_other": {
+        "position": 62,
+        "label": "기타_남여합계종사자수"
+      },
+      "tangible_assets": {
+        "position": 233,
+        "label": "재무구조_자산_유형자산(일반^ 금융)"
+      },
+      "revenue": {
+        "position": 240,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 241,
+        "label": "경영실적_영업비용_매출원가금융보험관련비"
+      },
+      "selling_admin": {
+        "position": 242,
+        "label": "경영실적_영업비용_판매비및일반관리비"
+      },
+      "materials": {
+        "position": 247,
+        "label": "비용내역_영업비용_재료비(일반업종)"
+      },
+      "labor_cost": {
+        "position": 250,
+        "label": "비용내역_영업비_인건비"
+      },
+      "rent": {
+        "position": 251,
+        "label": "비용내역_영업비_임차료"
+      },
+      "depreciation": {
+        "position": 252,
+        "label": "비용내역_영업비_감가상각비"
+      },
+      "taxes": {
+        "position": 253,
+        "label": "비용내역_영업비_세금과공과금"
+      },
+      "pretax_profit": {
+        "position": 245,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 106,
+        "label": "기업간거래_직접수출_거래금액"
+      },
+      "fourth_industry_use": {
+        "position": 169,
+        "label": "4차산업혁명_활용여부"
+      },
+      "ai_use": {
+        "position": 179,
+        "label": "4차산업혁명_개발활용_AI_활용여부"
+      },
+      "robot_use": {
+        "position": 185,
+        "label": "4차산업혁명_개발활용_ROBOT_활용여부"
+      },
+      "ai_stage": {
+        "position": 198,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "robot_stage": {
+        "position": 204,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "ai_development": {
+        "position": 216,
+        "label": "4차산업혁명_자체개발_AI_주된개발방법코드"
+      },
+      "robot_development": {
+        "position": 220,
+        "label": "4차산업혁명_자체개발_ROBOT_주된개발방법코드"
+      },
+      "raw_iot_use": {
+        "position": 171,
+        "label": "4차산업혁명_개발활용_IOT_활용여부"
+      },
+      "raw_iot_stage": {
+        "position": 190,
+        "label": "4차산업혁명_기술활용_IOT_활용단계구분코드"
+      },
+      "raw_cloud_use": {
+        "position": 173,
+        "label": "4차산업혁명_개발활용_CLOUD_활용여부"
+      },
+      "raw_cloud_stage": {
+        "position": 192,
+        "label": "4차산업혁명_기술활용_CLOUD_활용단계구분코드"
+      },
+      "raw_bigdata_use": {
+        "position": 176,
+        "label": "4차산업혁명_개발활용_BIGDATA_활용여부"
+      },
+      "raw_bigdata_stage": {
+        "position": 194,
+        "label": "4차산업혁명_기술활용_BIGDATA_활용단계구분코드"
+      },
+      "raw_mobile_use": {
+        "position": 177,
+        "label": "4차산업혁명_개발활용_MOBILE_활용여부"
+      },
+      "raw_mobile_stage": {
+        "position": 196,
+        "label": "4차산업혁명_기술활용_MOBILE_활용단계구분코드"
+      },
+      "raw_ai_use": {
+        "position": 179,
+        "label": "4차산업혁명_개발활용_AI_활용여부"
+      },
+      "raw_ai_stage": {
+        "position": 198,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "raw_blockchain_use": {
+        "position": 181,
+        "label": "4차산업혁명_개발활용_BC_활용여부"
+      },
+      "raw_blockchain_stage": {
+        "position": 200,
+        "label": "4차산업혁명_기술활용_BC_활용단계구분코드"
+      },
+      "raw_3dp_use": {
+        "position": 183,
+        "label": "4차산업혁명_개발활용_3DP_활용여부"
+      },
+      "raw_3dp_stage": {
+        "position": 202,
+        "label": "4차산업혁명_기술활용_3DP_활용단계구분코드"
+      },
+      "raw_robot_use": {
+        "position": 185,
+        "label": "4차산업혁명_개발활용_ROBOT_활용여부"
+      },
+      "raw_robot_stage": {
+        "position": 204,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "raw_arvr_use": {
+        "position": 187,
+        "label": "4차산업혁명_개발활용_AR_VR_활용여부"
+      },
+      "raw_arvr_stage": {
+        "position": 206,
+        "label": "4차산업혁명_기술활용_AR_VR_활용단계구분코드"
+      }
+    }
+  },
+  {
+    "year": 2021,
+    "zip_id": 82803,
+    "encoding": "windows-949",
+    "column_count": 254,
+    "fields": {
+      "year": {
+        "position": 1,
+        "label": "조사기준연도"
+      },
+      "panel_key": {
+        "position": 2,
+        "label": "패널키값"
+      },
+      "br_panel_key": {
+        "position": 4,
+        "label": "BR_패널키값"
+      },
+      "region": {
+        "position": 5,
+        "label": "행정구역시도코드"
+      },
+      "industry_large": {
+        "position": 9,
+        "label": "주사업_산업대분류코드"
+      },
+      "industry_mid": {
+        "position": 10,
+        "label": "주사업_산업중분류코드"
+      },
+      "employees_regular": {
+        "position": 13,
+        "label": "상용근로_남여합계종사자수"
+      },
+      "employees_temporary": {
+        "position": 61,
+        "label": "임시일용근로_남여합계종사자수"
+      },
+      "employees_other": {
+        "position": 64,
+        "label": "기타_남여합계종사자수"
+      },
+      "tangible_assets": {
+        "position": 227,
+        "label": "재무구조_자산_유형자산(일반^ 금융)"
+      },
+      "revenue": {
+        "position": 235,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 236,
+        "label": "경영실적_영업비용_매출원가금융보험관련비"
+      },
+      "selling_admin": {
+        "position": 237,
+        "label": "경영실적_영업비용_판매비및일반관리비"
+      },
+      "materials": {
+        "position": 242,
+        "label": "비용내역_영업비용_재료비(일반업종)"
+      },
+      "labor_cost": {
+        "position": 245,
+        "label": "비용내역_영업비_인건비"
+      },
+      "rent": {
+        "position": 246,
+        "label": "비용내역_영업비_임차료"
+      },
+      "depreciation": {
+        "position": 247,
+        "label": "비용내역_영업비_감가상각비"
+      },
+      "taxes": {
+        "position": 248,
+        "label": "비용내역_영업비_세금과공과금"
+      },
+      "pretax_profit": {
+        "position": 240,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 109,
+        "label": "기업간거래_직접수출_거래금액"
+      },
+      "fourth_industry_use": {
+        "position": 172,
+        "label": "4차산업혁명_활용여부"
+      },
+      "ai_use": {
+        "position": null,
+        "label": null
+      },
+      "robot_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_stage": {
+        "position": 192,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "robot_stage": {
+        "position": 198,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "ai_development": {
+        "position": 210,
+        "label": "4차산업혁명_자체개발_AI_주된개발방법코드"
+      },
+      "robot_development": {
+        "position": 214,
+        "label": "4차산업혁명_자체개발_ROBOT_주된개발방법코드"
+      },
+      "raw_iot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_stage": {
+        "position": 184,
+        "label": "4차산업혁명_기술활용_IOT_활용단계구분코드"
+      },
+      "raw_cloud_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_stage": {
+        "position": 186,
+        "label": "4차산업혁명_기술활용_CLOUD_활용단계구분코드"
+      },
+      "raw_bigdata_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_stage": {
+        "position": 188,
+        "label": "4차산업혁명_기술활용_BIGDATA_활용단계구분코드"
+      },
+      "raw_mobile_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_stage": {
+        "position": 190,
+        "label": "4차산업혁명_기술활용_MOBILE_활용단계구분코드"
+      },
+      "raw_ai_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_stage": {
+        "position": 192,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "raw_blockchain_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_stage": {
+        "position": 194,
+        "label": "4차산업혁명_기술활용_BC_활용단계구분코드"
+      },
+      "raw_3dp_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_stage": {
+        "position": 196,
+        "label": "4차산업혁명_기술활용_3DP_활용단계구분코드"
+      },
+      "raw_robot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_stage": {
+        "position": 198,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "raw_arvr_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_stage": {
+        "position": 200,
+        "label": "4차산업혁명_기술활용_AR_VR_활용단계구분코드"
+      }
+    }
+  },
+  {
+    "year": 2022,
+    "zip_id": 82803,
+    "encoding": "windows-949",
+    "column_count": 254,
+    "fields": {
+      "year": {
+        "position": 1,
+        "label": "조사기준연도"
+      },
+      "panel_key": {
+        "position": 2,
+        "label": "패널키값"
+      },
+      "br_panel_key": {
+        "position": 4,
+        "label": "BR_패널키값"
+      },
+      "region": {
+        "position": 5,
+        "label": "행정구역시도코드"
+      },
+      "industry_large": {
+        "position": 9,
+        "label": "주사업_산업대분류코드"
+      },
+      "industry_mid": {
+        "position": 10,
+        "label": "주사업_산업중분류코드"
+      },
+      "employees_regular": {
+        "position": 13,
+        "label": "상용근로_남여합계종사자수"
+      },
+      "employees_temporary": {
+        "position": 61,
+        "label": "임시일용근로_남여합계종사자수"
+      },
+      "employees_other": {
+        "position": 64,
+        "label": "기타_남여합계종사자수"
+      },
+      "tangible_assets": {
+        "position": 227,
+        "label": "재무구조_자산_유형자산(일반^ 금융)"
+      },
+      "revenue": {
+        "position": 235,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 236,
+        "label": "경영실적_영업비용_매출원가금융보험관련비"
+      },
+      "selling_admin": {
+        "position": 237,
+        "label": "경영실적_영업비용_판매비및일반관리비"
+      },
+      "materials": {
+        "position": 242,
+        "label": "비용내역_영업비용_재료비(일반업종)"
+      },
+      "labor_cost": {
+        "position": 245,
+        "label": "비용내역_영업비_인건비"
+      },
+      "rent": {
+        "position": 246,
+        "label": "비용내역_영업비_임차료"
+      },
+      "depreciation": {
+        "position": 247,
+        "label": "비용내역_영업비_감가상각비"
+      },
+      "taxes": {
+        "position": 248,
+        "label": "비용내역_영업비_세금과공과금"
+      },
+      "pretax_profit": {
+        "position": 240,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 109,
+        "label": "기업간거래_직접수출_거래금액"
+      },
+      "fourth_industry_use": {
+        "position": 172,
+        "label": "4차산업혁명_활용여부"
+      },
+      "ai_use": {
+        "position": null,
+        "label": null
+      },
+      "robot_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_stage": {
+        "position": 192,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "robot_stage": {
+        "position": 198,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "ai_development": {
+        "position": 210,
+        "label": "4차산업혁명_자체개발_AI_주된개발방법코드"
+      },
+      "robot_development": {
+        "position": 214,
+        "label": "4차산업혁명_자체개발_ROBOT_주된개발방법코드"
+      },
+      "raw_iot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_stage": {
+        "position": 184,
+        "label": "4차산업혁명_기술활용_IOT_활용단계구분코드"
+      },
+      "raw_cloud_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_stage": {
+        "position": 186,
+        "label": "4차산업혁명_기술활용_CLOUD_활용단계구분코드"
+      },
+      "raw_bigdata_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_stage": {
+        "position": 188,
+        "label": "4차산업혁명_기술활용_BIGDATA_활용단계구분코드"
+      },
+      "raw_mobile_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_stage": {
+        "position": 190,
+        "label": "4차산업혁명_기술활용_MOBILE_활용단계구분코드"
+      },
+      "raw_ai_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_stage": {
+        "position": 192,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "raw_blockchain_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_stage": {
+        "position": 194,
+        "label": "4차산업혁명_기술활용_BC_활용단계구분코드"
+      },
+      "raw_3dp_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_stage": {
+        "position": 196,
+        "label": "4차산업혁명_기술활용_3DP_활용단계구분코드"
+      },
+      "raw_robot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_stage": {
+        "position": 198,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "raw_arvr_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_stage": {
+        "position": 200,
+        "label": "4차산업혁명_기술활용_AR_VR_활용단계구분코드"
+      }
+    }
+  },
+  {
+    "year": 2023,
+    "zip_id": 82803,
+    "encoding": "windows-949",
+    "column_count": 254,
+    "fields": {
+      "year": {
+        "position": 1,
+        "label": "조사기준연도"
+      },
+      "panel_key": {
+        "position": null,
+        "label": null
+      },
+      "br_panel_key": {
+        "position": 3,
+        "label": "BR_패널키값"
+      },
+      "region": {
+        "position": 4,
+        "label": "행정구역시도코드"
+      },
+      "industry_large": {
+        "position": 8,
+        "label": "주사업_산업대분류코드"
+      },
+      "industry_mid": {
+        "position": 9,
+        "label": "주사업_산업중분류코드"
+      },
+      "employees_regular": {
+        "position": 12,
+        "label": "상용근로_남여합계종사자수"
+      },
+      "employees_temporary": {
+        "position": 60,
+        "label": "임시일용근로_남여합계종사자수"
+      },
+      "employees_other": {
+        "position": 63,
+        "label": "기타_남여합계종사자수"
+      },
+      "tangible_assets": {
+        "position": 227,
+        "label": "재무구조_자산_유형자산(일반^ 금융)"
+      },
+      "revenue": {
+        "position": 235,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 236,
+        "label": "경영실적_영업비용_매출원가금융보험관련비"
+      },
+      "selling_admin": {
+        "position": 237,
+        "label": "경영실적_영업비용_판매비및일반관리비"
+      },
+      "materials": {
+        "position": 242,
+        "label": "비용내역_영업비용_재료비(일반업종)"
+      },
+      "labor_cost": {
+        "position": 245,
+        "label": "비용내역_영업비_인건비"
+      },
+      "rent": {
+        "position": 246,
+        "label": "비용내역_영업비_임차료"
+      },
+      "depreciation": {
+        "position": 247,
+        "label": "비용내역_영업비_감가상각비"
+      },
+      "taxes": {
+        "position": 248,
+        "label": "비용내역_영업비_세금과공과금"
+      },
+      "pretax_profit": {
+        "position": 240,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 108,
+        "label": "기업간거래_직접수출_거래금액"
+      },
+      "fourth_industry_use": {
+        "position": 172,
+        "label": "4차산업혁명_활용여부"
+      },
+      "ai_use": {
+        "position": null,
+        "label": null
+      },
+      "robot_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_stage": {
+        "position": 192,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "robot_stage": {
+        "position": 198,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "ai_development": {
+        "position": 210,
+        "label": "4차산업혁명_자체개발_AI_주된개발방법코드"
+      },
+      "robot_development": {
+        "position": 214,
+        "label": "4차산업혁명_자체개발_ROBOT_주된개발방법코드"
+      },
+      "raw_iot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_stage": {
+        "position": 184,
+        "label": "4차산업혁명_기술활용_IOT_활용단계구분코드"
+      },
+      "raw_cloud_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_stage": {
+        "position": 186,
+        "label": "4차산업혁명_기술활용_CLOUD_활용단계구분코드"
+      },
+      "raw_bigdata_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_stage": {
+        "position": 188,
+        "label": "4차산업혁명_기술활용_BIGDATA_활용단계구분코드"
+      },
+      "raw_mobile_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_stage": {
+        "position": 190,
+        "label": "4차산업혁명_기술활용_MOBILE_활용단계구분코드"
+      },
+      "raw_ai_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_stage": {
+        "position": 192,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "raw_blockchain_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_stage": {
+        "position": 194,
+        "label": "4차산업혁명_기술활용_BC_활용단계구분코드"
+      },
+      "raw_3dp_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_stage": {
+        "position": 196,
+        "label": "4차산업혁명_기술활용_3DP_활용단계구분코드"
+      },
+      "raw_robot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_stage": {
+        "position": 198,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "raw_arvr_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_stage": {
+        "position": 200,
+        "label": "4차산업혁명_기술활용_AR_VR_활용단계구분코드"
+      }
+    }
+  },
+  {
+    "year": 2024,
+    "zip_id": 82803,
+    "encoding": "windows-949",
+    "column_count": 254,
+    "fields": {
+      "year": {
+        "position": 1,
+        "label": "조사기준연도"
+      },
+      "panel_key": {
+        "position": null,
+        "label": null
+      },
+      "br_panel_key": {
+        "position": 3,
+        "label": "BR_패널키값"
+      },
+      "region": {
+        "position": 4,
+        "label": "행정구역시도코드"
+      },
+      "industry_large": {
+        "position": 8,
+        "label": "주사업_산업대분류코드"
+      },
+      "industry_mid": {
+        "position": 9,
+        "label": "주사업_산업중분류코드"
+      },
+      "employees_regular": {
+        "position": 12,
+        "label": "상용근로_남여합계종사자수"
+      },
+      "employees_temporary": {
+        "position": 60,
+        "label": "임시일용근로_남여합계종사자수"
+      },
+      "employees_other": {
+        "position": 63,
+        "label": "기타_남여합계종사자수"
+      },
+      "tangible_assets": {
+        "position": 227,
+        "label": "재무구조_자산_유형자산(일반금융)"
+      },
+      "revenue": {
+        "position": 235,
+        "label": "경영실적_매출금액영업수익"
+      },
+      "cost_of_sales": {
+        "position": 236,
+        "label": "경영실적_영업비용_매출원가금융보험관련비"
+      },
+      "selling_admin": {
+        "position": 237,
+        "label": "경영실적_영업비용_판매비및일반관리비"
+      },
+      "materials": {
+        "position": 242,
+        "label": "비용내역_영업비용_재료비(일반업종)"
+      },
+      "labor_cost": {
+        "position": 245,
+        "label": "비용내역_영업비_인건비"
+      },
+      "rent": {
+        "position": 246,
+        "label": "비용내역_영업비_임차료"
+      },
+      "depreciation": {
+        "position": 247,
+        "label": "비용내역_영업비_감가상각비"
+      },
+      "taxes": {
+        "position": 248,
+        "label": "비용내역_영업비_세금과공과금"
+      },
+      "pretax_profit": {
+        "position": 240,
+        "label": "경영실적_법인세차감전순이익"
+      },
+      "direct_exports": {
+        "position": 108,
+        "label": "기업간거래_직접수출_거래금액"
+      },
+      "fourth_industry_use": {
+        "position": 172,
+        "label": "4차산업혁명_활용여부"
+      },
+      "ai_use": {
+        "position": null,
+        "label": null
+      },
+      "robot_use": {
+        "position": null,
+        "label": null
+      },
+      "ai_stage": {
+        "position": 192,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "robot_stage": {
+        "position": 198,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "ai_development": {
+        "position": 210,
+        "label": "4차산업혁명_자체개발_AI_주된개발방법코드"
+      },
+      "robot_development": {
+        "position": 214,
+        "label": "4차산업혁명_자체개발_ROBOT_주된개발방법코드"
+      },
+      "raw_iot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_iot_stage": {
+        "position": 184,
+        "label": "4차산업혁명_기술활용_IOT_활용단계구분코드"
+      },
+      "raw_cloud_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_cloud_stage": {
+        "position": 186,
+        "label": "4차산업혁명_기술활용_CLOUD_활용단계구분코드"
+      },
+      "raw_bigdata_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_bigdata_stage": {
+        "position": 188,
+        "label": "4차산업혁명_기술활용_BIGDATA_활용단계구분코드"
+      },
+      "raw_mobile_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_mobile_stage": {
+        "position": 190,
+        "label": "4차산업혁명_기술활용_MOBILE_활용단계구분코드"
+      },
+      "raw_ai_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_ai_stage": {
+        "position": 192,
+        "label": "4차산업혁명_기술활용_AI_활용단계구분코드"
+      },
+      "raw_blockchain_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_blockchain_stage": {
+        "position": 194,
+        "label": "4차산업혁명_기술활용_BC_활용단계구분코드"
+      },
+      "raw_3dp_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_3dp_stage": {
+        "position": 196,
+        "label": "4차산업혁명_기술활용_3DP_활용단계구분코드"
+      },
+      "raw_robot_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_robot_stage": {
+        "position": 198,
+        "label": "4차산업혁명_기술활용_ROBOT_활용단계구분코드"
+      },
+      "raw_arvr_use": {
+        "position": null,
+        "label": null
+      },
+      "raw_arvr_stage": {
+        "position": 200,
+        "label": "4차산업혁명_기술활용_AR_VR_활용단계구분코드"
+      }
+    }
+  }
+]
